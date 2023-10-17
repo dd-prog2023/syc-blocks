@@ -1,4 +1,4 @@
-# scratch-blocks
+# scratch-blocks-M
 #### Scratch Blocks is a library for building creative computing interfaces.
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/LLK/scratch-blocks/tree/develop.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/LLK/scratch-blocks/tree/develop)
 
